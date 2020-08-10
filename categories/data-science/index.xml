@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on LIAO KEYI</title>
-    <link>https://iyekl.github.io/posts/</link>
-    <description>Recent content in Posts on LIAO KEYI</description>
+    <title>Data science on LIAO KEYI</title>
+    <link>https://iyekl.github.io/categories/data-science/</link>
+    <description>Recent content in Data science on LIAO KEYI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://iyekl.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://iyekl.github.io/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       <guid>https://iyekl.github.io/2020/text/</guid>
       <description>Last week, I participated in KPMG data analytics virtual internship program and I&amp;rsquo;d like to share my experience in this blog. Firstly, KPMG data analytics virtual internship is a free online internship program offer data analytics trainning to students or professions who want to develop related skills.
 The virtual internship actually is a task 1: draft an email which report the data quality issue and related strategy. total seven dimenstions need to be considered accuracy,completeness, consistency, currency, relevancy, validity, uniqueness.</description>
-    </item>
-    
-    <item>
-      <title>happy day</title>
-      <link>https://iyekl.github.io/2019/happy-day/</link>
-      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://iyekl.github.io/2019/happy-day/</guid>
-      <description>hello world</description>
     </item>
     
   </channel>
